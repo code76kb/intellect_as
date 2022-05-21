@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render ViewPagerIndicator  Comp : 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "height": 10,
+      "paddingHorizontal": 10,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 4,
+          "flex": 1,
+          "height": 4,
+        },
+        null,
+        Object {
+          "backgroundColor": "white",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 4,
+          "flex": 1,
+          "height": 4,
+        },
+        Object {
+          "marginLeft": 10,
+        },
+        Object {
+          "backgroundColor": "white",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "borderRadius": 4,
+          "flex": 1,
+          "height": 4,
+        },
+        Object {
+          "marginLeft": 10,
+        },
+        Object {
+          "backgroundColor": "#819da7",
+        },
+      ]
+    }
+  />
+</View>
+`;
